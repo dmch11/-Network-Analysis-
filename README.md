@@ -1,3 +1,4 @@
+
 # -Network-Analysis-
 Network Analysis on WormNet version3 Benchmark dataset through Sparse Matrix Representation
 -
@@ -6,4 +7,5 @@ I delve into the principles of transforming large and complex networks into effi
 The project demonstrates how to apply this approach to domains such as social network analysis, biological systems or infrastructure networks, ensuring a more streamlined and efficient data processing framework for modern network analysis challenges
 -
 Further improvements, would include computing PageRank scores for nodes to rank significance within the network.
-Calculating eigenvalues of the adjacency matrix to reveal deeper structural properties of the network. Simulating influence spread using Linear Threshold Model (LTM) or Independent Cascade Model (IC) to study diffusion dynamics by assigning thresholds/probabilities to nodes.
+Calculating eigenvalues of the adjacency matrix to reveal deeper structural properties of the network. Simulating influence spread using Linear Threshold Model (LTM) or Independent Cascade Model (IC) to study diffusion dynamics by assigning thresholds/probabilities to nodes
+

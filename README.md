@@ -9,10 +9,7 @@ Key highlights:
 - Applicable to **social networks**, **biological systems**, and **infrastructure networks**.
 - Aims to uncover **network structures, relationships, and dynamics**.
 
-**Potential improvements** include:
-- Implementing **PageRank** for node significance.
-- Analyzing **eigenvalues** of the adjacency matrix.
-- Simulating **influence spread** using **LTM** or **IC models**.
+
 
 
 
